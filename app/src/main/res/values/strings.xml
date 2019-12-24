@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Demo</string>
+
+    <string name="option1">Hotel</string>
+    <string name="option2">Transport Service</string>
+    <string name="option3">Local Guide</string>
+    <string name="option4">Tourist Attraction</string>
+
+
+</resources>
